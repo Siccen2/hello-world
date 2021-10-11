@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Maggots!
+
+Martin here, Im new to this.
+Mind the step.
